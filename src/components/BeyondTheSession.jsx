@@ -34,6 +34,32 @@ export default function BeyondTheSession() {
       ],
       image: "/images/girl.png",
     },
+    {
+      title: "Strategic Brief",
+      heading: "TURN INSIGHTS INTO CLEAR DIRECTION.",
+      description:
+        "We design and facilitate culturally intelligent focus groups and workshops that surface honest perspectives and actionable insight.",
+      points: [
+        "Market positioning",
+        "Competitive mapping",
+        "Strategic alignment",
+        "Opportunity framing",
+      ],
+      image: "/images/girl.png",
+    },
+    {
+      title: "Strategic Brief",
+      heading: "TURN INSIGHTS INTO CLEAR DIRECTION.",
+      description:
+        "We design and facilitate culturally intelligent focus groups and workshops that surface honest perspectives and actionable insight.",
+      points: [
+        "Market positioning",
+        "Competitive mapping",
+        "Strategic alignment",
+        "Opportunity framing",
+      ],
+      image: "/images/girl.png",
+    },
   ];
   return (
     <section className="w-full bg-white">

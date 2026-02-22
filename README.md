@@ -4,15 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-```bash
+````bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -34,3 +28,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Beyond The Session – Animated Slider
+
+An interactive and responsive slider built with Next.js, Swiper.js, and Tailwind CSS.
+Features smooth transitions, active slide animations, and modern gradient background styling.
+
+---
+
+## 🚀 Tech Stack
+
+- Next.js (App Router)
+- React
+- Swiper.js
+- Tailwind CSS
+- JavaScript (JSX)
+
+---
+
+## ✨ Features
+
+- Responsive slider layout
+- Centered active slide effect
+- Dynamic rotation & opacity animation
+- Custom gradient background
+- Modern UI styling
+- Mobile-friendly design
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/beyond-the-session.git
+````
